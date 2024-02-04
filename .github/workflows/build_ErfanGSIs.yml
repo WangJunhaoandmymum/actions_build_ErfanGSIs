@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/OS1.0.2.0.UMHCNXM/miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
+  ROM_URL: https://bigota.d.miui.com/OS1.0.2.0.UMHCNXM/miui_YUDI_OS1.0.2.0.UMHCNXM_34efc69cc0_14.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
