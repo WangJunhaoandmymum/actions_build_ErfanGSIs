@@ -1,4 +1,4 @@
-name: build_ErfanGSIs
+: build_ErfanGSIs
 
 on:
 #  release:
@@ -21,7 +21,7 @@ env:
 
 jobs:
   build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     if: github.event.repository.owner.id == github.event.sender.id
 
     steps:
